@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'screen_guard'
-  s.version          = '0.0.1'
+  s.version          = '0.0.3'
   s.summary          = 'Flutter plugin to prevent screenshots and screen recording on Android and iOS.'
   s.description      = <<-DESC
     A Flutter plugin that prevents screenshots and screen recording.
