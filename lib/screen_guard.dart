@@ -1,3 +1,10 @@
+/// A Flutter plugin to prevent screenshots and screen recording
+/// on Android and iOS.
+///
+/// Uses `FLAG_SECURE` on Android and the `UITextField` secure layer
+/// technique on iOS.
+library screen_guard;
+
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
