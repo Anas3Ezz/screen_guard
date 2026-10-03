@@ -1,3 +1,7 @@
+## 0.0.4
+
+* Rename iOS podspec to `screen_guard` for consistency.
+
 ## 0.0.3
 
 * Rename package from `secure_screen` to `screen_guard`.
