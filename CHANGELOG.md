@@ -1,3 +1,9 @@
+## 0.0.3
+
+* Rename package from `secure_screen` to `screen_guard`.
+* Add Android namespace for AGP 8+ compatibility.
+* Add branch protection and repo security.
+
 ## 0.0.2
 
 * Add example app.
