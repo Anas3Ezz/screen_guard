@@ -1,3 +1,11 @@
+## 0.0.5
+
+* **iOS**: Block screen recording — show black overlay when `UIScreen.isCaptured` is detected.
+* **iOS**: Mute app audio during screen recording via `AVAudioSession` deactivation.
+* **Android**: Block audio capture during screen recording via `ALLOW_CAPTURE_BY_NONE` (API 29+).
+* **Android**: Re-apply protection on activity recreation (config changes, background resume).
+* **Android**: Use `setFlags()` instead of `addFlags()` for more reliable flag application.
+
 ## 0.0.4
 
 * Rename iOS podspec to `screen_guard` for consistency.
