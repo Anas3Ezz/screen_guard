@@ -1,6 +1,6 @@
 name: screen_guard
 description: A Flutter plugin to prevent screenshots and screen recording on Android and iOS. Uses FLAG_SECURE on Android and the UITextField secure layer trick on iOS.
-version: 0.0.4
+version: 0.0.5
 repository: https://github.com/Anas3Ezz/screen_guard
 issue_tracker: https://github.com/Anas3Ezz/screen_guard/issues
 
